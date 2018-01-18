@@ -1,0 +1,14 @@
+{
+    "name": "15099133717/deom",
+    "description": "this is a deom",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "lidongying",
+            "email": "575752866@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
